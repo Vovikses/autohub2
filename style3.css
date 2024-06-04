@@ -1,0 +1,32 @@
+.window {
+    border: solid 2px #000;
+    border-radius: 10px;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    height: auto;
+}
+.form-group {
+    width: 70%;
+    margin: auto;
+}
+
+.links img {
+    width: 20%;
+    margin-top: px;
+}
+
+.or {
+    margin-top: 10px;
+}
+
+.btn {
+    background-color: #272727;
+    width: 70%;
+    margin-top: 10px;
+}
+
+span {
+    font-weight: bolder;
+}
